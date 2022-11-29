@@ -1,4 +1,4 @@
-module github.com/itsphat/notionapi
+module github.com/heyphat/notionapi
 
 go 1.14
 
